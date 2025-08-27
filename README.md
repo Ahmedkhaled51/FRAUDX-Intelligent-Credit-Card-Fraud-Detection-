@@ -1,6 +1,6 @@
 # **FRAUDX 🔐: AI-Powered Credit Card Fraud Detection**  
 **Smart. Safe. Secure.**  
-![FRAUDX System Overview](https://via.placeholder.com/800x300?text=AI-Powered+Fraud+Detection+Dashboard)  
+<img width="1024" height="1024" alt="image (10)" src="https://github.com/user-attachments/assets/e11f7d0f-29b1-4121-9831-0bd51ca28a5c" />
 *Revolutionizing Fraud Prevention with Deep Learning, Synthetic Data, and LLM Reasoning*
 
 ---
